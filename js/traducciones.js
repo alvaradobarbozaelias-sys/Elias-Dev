@@ -79,7 +79,9 @@ const translations = {
     contactame: "Contáctame",
     llamame: "Llámame o escríbeme por Whatsapp.",
     emailme: "Envíame un correo directamente.",
-    githubme: "Mira mi Github."
+    githubme: "Mira mi Github.",
+    AWSCE: "AWS Cloud Practitioner Essentials - AWS",
+    descAWSCE: "Fundamentos de computación en la nube, servicios AWS, seguridad y precios.  "
   },
   en: {
     inicio: "Home",
@@ -163,6 +165,8 @@ const translations = {
     contactame: "Find me",
     llamame: "Call me or send me a Whatsapp.",
     emailme: "Email me directly.",
-    githubme: "See my Github."
+    githubme: "See my Github.",
+    AWSCE: "AWS Cloud Practitioner Essentials - AWS",
+    descAWSCE: "Fundamentals of cloud computing, AWS services, security, and pricing."
   }
 };
